@@ -1,0 +1,3 @@
+Metti qui le copertine dei giochi (png, jpg o webp), meglio quadrate, circa 400x400 pixel.
+I nomi devono coincidere ESATTAMENTE con il campo "img" in giochi.js.
+Se manca un'immagine, la scheda mostra un segnaposto con la prima lettera del titolo.
