@@ -1,0 +1,2 @@
+Metti qui i file delle ROM (.gb / .gbc).
+I nomi devono coincidere ESATTAMENTE con quelli scritti in giochi.js (maiuscole incluse).
